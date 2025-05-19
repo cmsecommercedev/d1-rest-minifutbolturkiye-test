@@ -16,9 +16,9 @@
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "<YOUR-STORE-ID>",
+            "store_id": "a1327d63182d4300b36e1b744cdcbafb",
             "binding": "SECRET",
-            "secret_name": "<YOUR-SECRET-NAME>"
+            "secret_name": "minifutbolturkiye-test-d1"
         }
     ],
 	"observability": {
